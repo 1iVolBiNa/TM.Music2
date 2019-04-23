@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=d 
+game= Plus Music | dplay
+stayinchannel=true
+songinstatus=false
+token=NTcwMjE4NzczNTQyNjAwNzI0.XL8AfQ.yVlD4xwV7cJTEK_R389xhIkHZJ0
